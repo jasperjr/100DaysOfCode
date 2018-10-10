@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 1: October 10, 2018
+
+1. Reconnected to my Udemy account and logged in to the Complete Web Developer Course. COmpleted:
+  i. Intro to HTML, first web page, page structure, tags, paragraph, text formatting, ordered and unordered list
+2. Subscribed to #100daysofcode challenge
+3. Logged in github.com to learn how it works
+
+---------------------------------------------------------------------------
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
